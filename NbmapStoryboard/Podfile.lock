@@ -1,0 +1,21 @@
+PODS:
+  - ios-maps-pod (0.0.1)
+
+DEPENDENCIES:
+  - ios-maps-pod (from `https://github.com/nextbillion-ai/ios-maps-pod.git`)
+
+EXTERNAL SOURCES:
+  ios-maps-pod:
+    :git: https://github.com/nextbillion-ai/ios-maps-pod.git
+
+CHECKOUT OPTIONS:
+  ios-maps-pod:
+    :commit: 5178e33d145abe5bed97e3c9e2fd9354fbebe5b6
+    :git: https://github.com/nextbillion-ai/ios-maps-pod.git
+
+SPEC CHECKSUMS:
+  ios-maps-pod: 8f72cf22f22d5f14c19de17f9ec3cc5cb9fd210a
+
+PODFILE CHECKSUM: 723c958f1f8340eedea4aa4f103b45d28f59f8de
+
+COCOAPODS: 1.11.2

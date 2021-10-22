@@ -1,0 +1,36 @@
+{
+  "configurations" : [
+    {
+      "id" : "C31541E9-31D6-43C6-9730-F43C87BBD0C8",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:NbmapStoryboard.xcodeproj",
+      "identifier" : "A552477C270F279600B5BADC",
+      "name" : "NbmapStoryboard"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:NbmapStoryboard.xcodeproj",
+        "identifier" : "A5524792270F279600B5BADC",
+        "name" : "NbmapStoryboardTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:NbmapStoryboard.xcodeproj",
+        "identifier" : "A552479D270F279700B5BADC",
+        "name" : "NbmapStoryboardUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
